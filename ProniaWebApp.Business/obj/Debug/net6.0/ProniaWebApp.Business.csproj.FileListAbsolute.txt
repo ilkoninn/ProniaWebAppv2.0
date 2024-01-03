@@ -1,0 +1,17 @@
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\bin\Debug\net6.0\ProniaWebApp.Business.deps.json
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\bin\Debug\net6.0\ProniaWebApp.Business.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\bin\Debug\net6.0\ProniaWebApp.Business.pdb
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\bin\Debug\net6.0\ProniaWebApp.Core.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\bin\Debug\net6.0\ProniaWebApp.DAL.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\bin\Debug\net6.0\ProniaWebApp.DAL.pdb
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\bin\Debug\net6.0\ProniaWebApp.Core.pdb
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\obj\Debug\net6.0\ProniaWebApp.Business.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\obj\Debug\net6.0\ProniaWebApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\obj\Debug\net6.0\ProniaWebApp.Business.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\obj\Debug\net6.0\ProniaWebApp.Business.AssemblyInfo.cs
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\obj\Debug\net6.0\ProniaWebApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\obj\Debug\net6.0\ProniaWebApp.Business.csproj.CopyComplete
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\obj\Debug\net6.0\ProniaWebApp.Business.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\obj\Debug\net6.0\refint\ProniaWebApp.Business.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\obj\Debug\net6.0\ProniaWebApp.Business.pdb
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Business\obj\Debug\net6.0\ref\ProniaWebApp.Business.dll

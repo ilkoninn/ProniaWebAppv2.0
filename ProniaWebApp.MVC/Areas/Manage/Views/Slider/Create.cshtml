@@ -1,0 +1,48 @@
+﻿@using ProniaWebApp.MVC.Areas.Manage.ManageViewModels.SliderVMs
+@model CreateSliderVM
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-4 text-gray-800">Create Slider</h1>
+
+    <form method="post" enctype="multipart/form-data" class="row g-3 mx-2">
+        <div class="row">
+            <div class="mb-3 col-md-3">
+                <label asp-for="Title" class="form-label">Title</label>
+                <input asp-for="Title" class="form-control">
+                <div style="color: red; margin-top:10px; margin-left:10px">
+                    <span asp-validation-for="Title"></span>
+                </div>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="SubTitle" class="form-label">Sub Title</label>
+                <input asp-for="SubTitle" class="form-control">
+                <div style="color: red; margin-top:10px; margin-left:10px">
+                    <span asp-validation-for="SubTitle"></span>
+                </div>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="file" class="form-label">Image File</label>
+                <input asp-for="file" type="file" class="form-control">
+                <div style="color: red; margin-top:10px; margin-left:10px">
+                    <span asp-validation-for="file"></span>
+                </div>
+            </div>
+            <div class="mb-3 col-md-6">
+                <label asp-for="Discount" class="form-label">Discount</label>
+                <input asp-for="Discount" class="form-control">
+                <div style="color: red; margin-top:10px; margin-left:10px">
+                    <span asp-validation-for="Discount"></span>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 mt-3 mx-3">
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <button asp-controller="Slider" asp-action="Table" type="submit" class="btn btn-secondary">Cancel</button>
+        </div>
+    </form>
+
+</div>
+<!-- /.container-fluid -->

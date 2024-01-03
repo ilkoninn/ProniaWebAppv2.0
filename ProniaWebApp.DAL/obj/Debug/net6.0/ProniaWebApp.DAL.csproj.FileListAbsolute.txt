@@ -1,0 +1,17 @@
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\bin\Debug\net6.0\ProniaWebApp.DAL.deps.json
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\bin\Debug\net6.0\ProniaWebApp.DAL.runtimeconfig.json
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\bin\Debug\net6.0\ProniaWebApp.DAL.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\bin\Debug\net6.0\ProniaWebApp.DAL.pdb
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\bin\Debug\net6.0\ProniaWebApp.Core.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\bin\Debug\net6.0\ProniaWebApp.Core.pdb
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\obj\Debug\net6.0\ProniaWebApp.DAL.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\obj\Debug\net6.0\ProniaWebApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\obj\Debug\net6.0\ProniaWebApp.DAL.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\obj\Debug\net6.0\ProniaWebApp.DAL.AssemblyInfo.cs
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\obj\Debug\net6.0\ProniaWebApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\obj\Debug\net6.0\ProniaWebApp.DAL.csproj.CopyComplete
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\obj\Debug\net6.0\ProniaWebApp.DAL.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\obj\Debug\net6.0\refint\ProniaWebApp.DAL.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\obj\Debug\net6.0\ProniaWebApp.DAL.pdb
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\obj\Debug\net6.0\ProniaWebApp.DAL.genruntimeconfig.cache
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.DAL\obj\Debug\net6.0\ref\ProniaWebApp.DAL.dll

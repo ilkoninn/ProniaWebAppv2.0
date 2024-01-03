@@ -1,0 +1,11 @@
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Core\bin\Debug\net6.0\ProniaWebApp.Core.deps.json
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Core\bin\Debug\net6.0\ProniaWebApp.Core.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Core\bin\Debug\net6.0\ProniaWebApp.Core.pdb
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Core\obj\Debug\net6.0\ProniaWebApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Core\obj\Debug\net6.0\ProniaWebApp.Core.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Core\obj\Debug\net6.0\ProniaWebApp.Core.AssemblyInfo.cs
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Core\obj\Debug\net6.0\ProniaWebApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Core\obj\Debug\net6.0\ProniaWebApp.Core.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Core\obj\Debug\net6.0\refint\ProniaWebApp.Core.dll
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Core\obj\Debug\net6.0\ProniaWebApp.Core.pdb
+C:\Users\99470\source\repos\ProniaWebApp\ProniaWebApp.Core\obj\Debug\net6.0\ref\ProniaWebApp.Core.dll
